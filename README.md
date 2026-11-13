@@ -197,4 +197,4 @@ This repository serves as the official landing page for Hello Neighbor VR: Searc
 **Get the most recent version of Hello Neighbor VR: Search and Rescue today!**
 
 ---
-**Last updated:** 2026-11-13 04:20:08 UTC
+**Last updated:** 2026-11-13 12:44:19 UTC
